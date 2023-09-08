@@ -6,5 +6,4 @@ namespace: openshift-operators
 
 resources:
   - subscription.yaml
-  - kafka-cluster.yaml
-  
+

@@ -5,4 +5,4 @@ kind: Kustomization
 namespace: openshift-operators
 
 resources:
-  - /cluster-operator/*
+  - base/cluster-operator/*

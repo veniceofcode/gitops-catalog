@@ -6,3 +6,4 @@ namespace: openshift-operators
 
 resources:
   - subscription.yaml
+  - /cluster-operator/*
